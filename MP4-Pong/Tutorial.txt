@@ -1,0 +1,53 @@
+MP4: PONG
+
+	Game Description: 
+
+		A simulation of the classic game pong. 
+
+	Gameplay:
+
+		2 Players play pong with the goal ofreturning the ball to the other side 
+		and keep doing till one fails to receive at the either end.
+
+		Player 1 is at the bottom
+		Player 2 is at the top
+
+		One set of the game is best of 5.
+
+		Every successful 3 returns, a power-up is gained by the player.
+
+		A YELLOW DOT will appear at the player's side of the court that will indicate
+		that the player can use a SPEED POWER UP which makes the ball move fast.
+
+		A BLUE DOT will appear at the player's side of the court that will indicate
+		that the playr can use a LENGTH POWER UP which makes the paddle wider for three returns.
+
+
+	Game Controls:
+
+		Movement:
+			
+			Player 1:
+
+				move left = ARROW KEY LEFT;
+				move right = ARROW KEY RIGHT;
+
+			Player 2:
+
+				move left = KEY A;
+				move right = KEY D;
+
+
+
+		POWER UPS:
+			
+			Player 1:
+
+				Speed Power-up = KEY J;
+				Length Power-ip = KEY K;
+
+			Player 2:
+
+				Speed Power-up = KEY z;
+				Length Power-ip = KEY x;
+
