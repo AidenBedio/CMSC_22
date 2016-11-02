@@ -1,0 +1,17 @@
+Lab 12: Calculator
+
+	App Description:
+		A calculator with the basic functions of a standard normal calculator.
+
+
+	Functions:
+
+		1] Addition
+		2] Subtraction
+		3] Multiplication
+		4] Division
+		5] Percent
+		6] Negative/Positive (lol)
+
+		Follows %MDAS rule
+
